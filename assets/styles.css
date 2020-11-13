@@ -1,0 +1,13 @@
+*{
+    background-color : black;
+}
+body{
+    color: blue;
+}
+li{
+    list-style-type : square;
+}
+a{
+    color: red;
+}   
+
